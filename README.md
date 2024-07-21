@@ -26,7 +26,7 @@ URL: [application link here](application link here)
       - [ ] Tests
       - [ ] Questions
 * WHEN I enter my project title
-  - [ ] THEN this is displayed as the title of the README
+  - [x] THEN this is displayed as the title of the README
 * WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
   - [ ] THEN this information is added to the sections of the README entitled
     - [ ] Description
